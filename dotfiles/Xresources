@@ -1,0 +1,14 @@
+#include "/home/vee/.Xresources_themes/oomox-garden"
+
+URxvt.scrollBar: false
+URxvt*transparent: false
+URxvt*shading: 30
+URxvt.depth: 32
+URxvt.lineSpace: 0
+URxvt.letterSpace: 0.2
+URxvt.internalBorder: 16
+
+URxvt.font: xft:Terminess Nerd Font:size=20:style=Normal
+URxvt.boldFont: xft:Terminess Nerd Font:size=20:style=Bold
+URxvt.italicFont: xft:Terminess Nerd Font:size=20:style=Italic
+URxvt.bolditalicFont: xft:Terminess Nerd Font:size=20:style-bolditalic
