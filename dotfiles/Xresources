@@ -1,5 +1,3 @@
-#include "/home/vee/.Xresources_themes/oomox-garden"
-
 URxvt.scrollBar: false
 URxvt*transparent: false
 URxvt*shading: 30
